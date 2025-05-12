@@ -1,1 +1,1 @@
-greatsql/greatsql
+python:alpine3.19
